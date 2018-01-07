@@ -5,4 +5,5 @@
 
 # dependencies
 /node_modules
-/lib
+
+npm-debug.log
